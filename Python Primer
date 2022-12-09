@@ -1,0 +1,6 @@
+a=10
+b=20
+if a >= 10 and b<=20:
+  print (" You are ready to go Out"-)
+else:
+  print (" You have to wait ")
